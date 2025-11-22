@@ -1,4 +1,4 @@
-# LunikoDevelopment is a fictisious company for now this will possibly change in the future
+# LunikoDevelopment is a fictitious company for now this will possibly change in the future
 
 # About Us
 
