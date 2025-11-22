@@ -2,6 +2,7 @@
 
 # About Us
 
-We are a 2 person team of partners and developers.
+We are a 2 person team developers thet are madly in love with each other
+
 
 
